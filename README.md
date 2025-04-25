@@ -2,7 +2,7 @@
 
 This interactive Power BI dashboard provides a visual summary of auto sales performance by product line, country, and deal size over time.
 
-![Dashboard Screenshot](./path-to-your-image.png) <!-- Replace with actual image path in your repo -->
+![Dashboard Screenshot](https://github.com/NIKKI2600/TASK-4/blob/main/AUTO%20SALES%20SUMMARY.png) <!-- Replace with actual image path in your repo -->
 
 
 ## 📊 Overview
